@@ -1,5 +1,8 @@
 _repo: Folk-Speech-of-Cumberland-and-Some-Districts-Adjacent-Being-Short-Stories-and-Rhymes-in-the-D__62370
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62370-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibson, Alexander Craig
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48858
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Craig_Gibson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62370#Folk-Speech-of-Cumberland-and-Some-Districts-Adjacent-Being-Short-Stories-and-Rhymes-in-the-D_
 gutenberg_issued: '2020-06-11'
 gutenberg_type: Text
 identifiers:
